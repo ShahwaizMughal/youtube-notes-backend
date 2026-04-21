@@ -94,7 +94,7 @@ ASSEMBLYAI_API_KEY=your_assemblyai_api_key
 ### 4. Run Server
 
 ```bash
-node app.js
+node server.js
 ```
 
 Server will start at:

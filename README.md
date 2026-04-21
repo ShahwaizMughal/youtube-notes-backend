@@ -59,7 +59,7 @@ Generate final structured notes
   /routes
 /temp
 .env
-app.js
+server.js
 ```
 
 ---
@@ -177,23 +177,3 @@ Contributions are welcome!
 Feel free to open issues or submit pull requests.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Shahwaiz Akram**
-
----
-
-If you want, I can also:
-
-* 🔥 Make this README more **portfolio-level (with badges, screenshots, API docs UI)**
-* 🎯 Add **Swagger documentation**
-* 🌐 Help you deploy it (Render / Railway / VPS)
-
-Just tell me 👍

@@ -1,7 +1,3 @@
-Here’s a clean, **GitHub-ready README.md** for your project 👇
-
----
-
 # 📚 YouTube Study Notes Generator
 
 A backend service built with **Node.js & Express** that takes a YouTube video URL, extracts its content, and generates **structured study notes** using AI.
